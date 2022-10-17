@@ -1,0 +1,14 @@
+.MemeLayoutContainer{
+  justify-content: center;
+  margin: 20px;
+  max-width: 200px;
+}
+
+.ImgContent{
+  margin-top: 8px;
+  width: 80%;
+}
+.ContentDisplay{
+  border: 2px solid grey;
+  vertical-align: middle;
+}

@@ -1,0 +1,16 @@
+.memeAppContainer{
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+.BtnGetMemeDisplay{
+  background-color: blue;
+  width: 100%;
+  font-weight: bold;
+  color: white;
+  font-size: 50px;
+  border-width: 0px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
