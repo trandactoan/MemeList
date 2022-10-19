@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/memelist/static/css/main.d0a7a222.css",
-    "main.js": "/memelist/static/js/main.e93a7550.js",
-    "static/js/787.73a2e5fd.chunk.js": "/memelist/static/js/787.73a2e5fd.chunk.js",
-    "index.html": "/memelist/index.html",
-    "main.d0a7a222.css.map": "/memelist/static/css/main.d0a7a222.css.map",
-    "main.e93a7550.js.map": "/memelist/static/js/main.e93a7550.js.map",
-    "787.73a2e5fd.chunk.js.map": "/memelist/static/js/787.73a2e5fd.chunk.js.map"
+    "main.css": "/MemeList/static/css/main.d0a7a222.css",
+    "main.js": "/MemeList/static/js/main.e56098d7.js",
+    "static/js/787.73a2e5fd.chunk.js": "/MemeList/static/js/787.73a2e5fd.chunk.js",
+    "index.html": "/MemeList/index.html",
+    "main.d0a7a222.css.map": "/MemeList/static/css/main.d0a7a222.css.map",
+    "main.e56098d7.js.map": "/MemeList/static/js/main.e56098d7.js.map",
+    "787.73a2e5fd.chunk.js.map": "/MemeList/static/js/787.73a2e5fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0a7a222.css",
-    "static/js/main.e93a7550.js"
+    "static/js/main.e56098d7.js"
   ]
 }
